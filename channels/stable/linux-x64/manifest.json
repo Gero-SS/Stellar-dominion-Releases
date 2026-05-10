@@ -1,0 +1,2559 @@
+{
+  "schema": 1,
+  "product": "stellar-dominion",
+  "channel": "stable",
+  "platform": "linux-x64",
+  "version": "v0.1.6",
+  "generatedAt": "2026-05-10T07:38:57.789Z",
+  "files": [
+    {
+      "path": "README.txt",
+      "size": 81,
+      "sha256": "29b887250741c268cf0647a5c677d8a04b0b92b4599046562e2c415821da9368",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/README.txt",
+      "executable": false
+    },
+    {
+      "path": "assets/game/field/asteroids/amber_ore.png",
+      "size": 563544,
+      "sha256": "9f6c69b702ca8bfcfe674280b46e7928e24aa1eac6690d741280e3f2fc778191",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/field/asteroids/amber_ore.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/field/asteroids/blue_ice.png",
+      "size": 503352,
+      "sha256": "c4181f4c6ec79675ac50186890727a49804f42a4727f9dc95aa081cc1ad14ca4",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/field/asteroids/blue_ice.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/field/asteroids/violet_crystal.png",
+      "size": 575939,
+      "sha256": "86237136ac9b157c93e9a335cae3d62278e5ca7786bd67fe3de9f3ec22322bdf",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/field/asteroids/violet_crystal.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/fonts/Orbitron-wght.ttf",
+      "size": 38576,
+      "sha256": "f42db2dd16e642258e35782916eceb1dcdbea06fb958d77ad71dc5963587e8fd",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/fonts/Orbitron-wght.ttf",
+      "executable": false
+    },
+    {
+      "path": "assets/game/fonts/Rajdhani-SemiBold.ttf",
+      "size": 390340,
+      "sha256": "94bbd25a18ca665999feb05a537de9fd2b860dcfb78bbe9ca00270825bf235da",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/fonts/Rajdhani-SemiBold.ttf",
+      "executable": false
+    },
+    {
+      "path": "assets/game/fonts/msdf/body.json",
+      "size": 32271,
+      "sha256": "b8785d511a5ad0c4e84bddc2986ae3920cf75b6343608de2edb0c80130c01345",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/fonts/msdf/body.json",
+      "executable": false
+    },
+    {
+      "path": "assets/game/fonts/msdf/body.png",
+      "size": 70942,
+      "sha256": "e4e43d5ccbfd44c70ae74c300f487e71800b4961c2c8a1f24028ee1468aa4b05",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/fonts/msdf/body.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/fonts/msdf/title.json",
+      "size": 51060,
+      "sha256": "da3a24a7fb99117efd17bcbd33c73065cd52a03410b68bda23eed814211ac59f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/fonts/msdf/title.json",
+      "executable": false
+    },
+    {
+      "path": "assets/game/fonts/msdf/title.png",
+      "size": 122938,
+      "sha256": "ff27f1a084690f151f908c29a2f74d58faebfbf79735fe908051975384611d83",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/fonts/msdf/title.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shaders/msdf_text.fs",
+      "size": 785,
+      "sha256": "2d67f1f14b5f49c6612e0b3cf3e1c6032f2335495ce29c92cb90c2ec235419c1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shaders/msdf_text.fs",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/attacker/front.png",
+      "size": 293949,
+      "sha256": "b7b8615a3b20bb83d62749fffd3beae372089759c334280a9f95d4c70ac0136d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/attacker/front_angled_left.png",
+      "size": 311207,
+      "sha256": "f9ee3cb85f3e8906e1ef0e51fdd4d5dbb3ef48c42723d9813dd30f6d86044eec",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/attacker/side_left.png",
+      "size": 294791,
+      "sha256": "da2baa1bd178e8752164ed537353eeecf57a3f65d9fe78ec9b33cf70332345d2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/behemoth/front.png",
+      "size": 374699,
+      "sha256": "50c20852bbfd4a9f90e13a9370cd2fe9de99fbe4c973e8bb1dd16f82c9d6ce39",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/behemoth/front_angled_left.png",
+      "size": 374961,
+      "sha256": "38c5664519cc493d970b39ecd3dd68280eb8a9a94190bc36de995dd9e5d436b0",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/behemoth/side_left.png",
+      "size": 322511,
+      "sha256": "6d6f103beda11f29effe30044be0461e0479e70166a22a92011c621aa6fd5c18",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/carrier/front.png",
+      "size": 233570,
+      "sha256": "8f669b2b69d15d3f9062dc01481750ebfee160db3773a54a64f5b885e58f17f6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/carrier/front_angled_left.png",
+      "size": 236135,
+      "sha256": "960aecaddb6b7865401b9633d64cbdab3f83cb3903a8d89364613c3c2ecd9dfc",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/carrier/side_left.png",
+      "size": 183784,
+      "sha256": "1cd353414234f45db8a92be939cd0afb0eacb9e989f1da0486336e4acb3bb532",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/destroyer/front.png",
+      "size": 320486,
+      "sha256": "d54dc1593ba84b01ba1945d8eec3e1d165c472b062a3bf147b9dc248ac723cfd",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/destroyer/front_angled_left.png",
+      "size": 332776,
+      "sha256": "acdf17c6032685b6bbea61946e436f3ad324fa299102b36dfebc60978b69b6c8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/destroyer/side_left.png",
+      "size": 295430,
+      "sha256": "5d07905721d9d7dff794bc6c9bd3b6cc3e4dede7620f3ec5804a7160bb460adf",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/fighter/front.png",
+      "size": 203359,
+      "sha256": "154f52d482cd750eee2a0736c56af193b4ad0a0c465380cd8240b2e626d68a1d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/fighter/front_angled_left.png",
+      "size": 255595,
+      "sha256": "232bba137f4db7b2034bf7c1d919347331a1711834f7f12f1e05a4f41611b3ce",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/fighter/side_left.png",
+      "size": 235262,
+      "sha256": "402bf2887efba9e32763c700a70b999bea0191ca633f3b647f6e98984155280d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/freighter/front.png",
+      "size": 268345,
+      "sha256": "5e5e1aba74665e34af14911222beb7c788366d5b1482906d73db9ffeb15f15bd",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/freighter/front_angled_left.png",
+      "size": 304629,
+      "sha256": "fc4e25155ef9e41bf9783103ad47675196111a66f216334e4cccfa96a8fad67a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/freighter/side_left.png",
+      "size": 256106,
+      "sha256": "05d38bc2d6ae4e39d1a9e4a5246c26ada6285396d9f2e7b9e3b81df1440947f7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/hunter/front.png",
+      "size": 196775,
+      "sha256": "b8c7e574f7378ab4e5fa3abd1528dd3e4f525423ca953f052de21d3ee87ef2ba",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/hunter/front_angled_left.png",
+      "size": 218229,
+      "sha256": "c6ff4f705432faa7c3b8dd86da3bd7bf05fe8066ff247a7f8f867c91109f51bc",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/hunter/side_left.png",
+      "size": 203419,
+      "sha256": "27beab1a4dd5adddb2fc49c96b3340e703d1fd9507022e43ca760dbc1c5dd6bb",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/seeker/front.png",
+      "size": 168948,
+      "sha256": "29490412e6a270fbd85e9aaafad272a7ac40612eeef192c43c17c915ed2d3e7e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/seeker/front_angled_left.png",
+      "size": 220526,
+      "sha256": "dedc7d25ebd2c218bd2efb77f9d2761221336e0ed9556a6a6828d6d1871b3091",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/andros/seeker/side_left.png",
+      "size": 219711,
+      "sha256": "81089ee77c554976868283d474675d2e3e2fee9aca2b70ec93a764e2bc04a10c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/andros/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/attacker/front.png",
+      "size": 63211,
+      "sha256": "cc295c32d678e69f230982acffeb3a85b55134002cf114e1fcaac1b8ceddfa9a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/attacker/front_angled_left.png",
+      "size": 65409,
+      "sha256": "3e85fc1a0a33661a4e9b31232ceac96b551fad129b842af991e0a7ecca58cb58",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/attacker/side_left.png",
+      "size": 57302,
+      "sha256": "4433edb175aac406ff4ad8857d634ca6dbb50b07ec8536acec97bce8c60118e6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/behemoth/front.png",
+      "size": 311899,
+      "sha256": "732f0e0fa63ed0cf8239ba9d2ed4437d96ba660f37a50adae6d0656c212cd2d7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/behemoth/front_angled_left.png",
+      "size": 351713,
+      "sha256": "1065815b52e4edf58eaf71ae96732bbbbc7142ab2018a39a453fcda2e137ce6c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/behemoth/side_left.png",
+      "size": 355253,
+      "sha256": "088be339da087b9e44ab70398da1aff8a5ea439d04e0eb39191e4d8ac26715b0",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/carrier/front.png",
+      "size": 69440,
+      "sha256": "1fdacbf53bf0bd0157d272549677f16512cd8632d6e71c9eeb2f7ec47438b7b8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/carrier/front_angled_left.png",
+      "size": 65172,
+      "sha256": "d9790bdf11b8287424f6006bb52f1c97acbf0ceca773b4f1ba893f4d9c85f481",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/carrier/side_left.png",
+      "size": 49989,
+      "sha256": "96dcba60394d5af0a4a4fd5598e94da0e23a7baf40683f8fd299bb313a23b057",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/destroyer/front.png",
+      "size": 271905,
+      "sha256": "3df74b43742a1c1c9ca7aabb37891097c4df782478f85e0801ef193ab85177f2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/destroyer/front_angled_left.png",
+      "size": 333230,
+      "sha256": "f298a71e8b5108d33e6a80b33766bcd0c5cee1e3815f06560c0862619dc906d2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/destroyer/side_left.png",
+      "size": 312918,
+      "sha256": "5676ae16af1b06e50c4febb0f2e515dda905737667bf4a4901950d73fff0fec3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/fighter/front.png",
+      "size": 38625,
+      "sha256": "84f24b79eb30ab0e2ce1e3da82b2a22ab9ba0b13c58f5aa74bd39eac763bc201",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/fighter/front_angled_left.png",
+      "size": 44668,
+      "sha256": "7e4e601f818f27e3e9b35c4634c9e9658f2411bb386567a269a150e5cfd2ce77",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/fighter/side_left.png",
+      "size": 36359,
+      "sha256": "47a5eccf226a3fc9bf46d4c3131d8b7c74665c7d986a9cc7706120e0d4df1e96",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/freighter/front.png",
+      "size": 71395,
+      "sha256": "e3638ea63eb467e8ece62c8a4a548b7a7c594601f2a27990178f27c5828d8a98",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/freighter/front_angled_left.png",
+      "size": 71769,
+      "sha256": "8c2ec5b80a091336869b8e3a8a6afcd1787be63dee100341137e267a37a3e463",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/freighter/side_left.png",
+      "size": 65884,
+      "sha256": "7ab59d9f8c99abdfc144446ac1d463becc32b0925fcf136b5df5bff0585e4947",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/hunter/front.png",
+      "size": 61149,
+      "sha256": "874de69bda0221a855ed174ea56a2dbe042a4b3a174a8233ddde9a110259ead8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/hunter/front_angled_left.png",
+      "size": 59112,
+      "sha256": "62fda194b6163f64af52598717f3382a2d44a3b9ab9375a0d19913ab75c4877c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/hunter/side_left.png",
+      "size": 49296,
+      "sha256": "963cdae5e9c06f494332504deb000f22b13791ee41498ef6d4771c29cf348c92",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/seeker/front.png",
+      "size": 45244,
+      "sha256": "9703a9460cb33c22a840a7d61e239cf9519de9a62ff72dfa12c0a411b91e633f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/seeker/front_angled_left.png",
+      "size": 43533,
+      "sha256": "0adcc08f3dec1c0ac4ccaa9e4a69caacd67aedfd9de793f5f8d33ae6cb4df611",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/arachne/seeker/side_left.png",
+      "size": 34740,
+      "sha256": "7526eee3cc8e1637080a08020037ce67bc53af48a6bf483f1566cc2e716cbc43",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/arachne/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/attacker/front.png",
+      "size": 227430,
+      "sha256": "bf0dcca5c6b33cbf3e3e1014805352da7f6f578fb91cf6a62bd9e09ef140dcd0",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/attacker/front_angled_left.png",
+      "size": 287522,
+      "sha256": "71aee11d074323f3789a20bbc3091ace864d88e0feb78bb264443c580087b2ba",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/attacker/side_left.png",
+      "size": 255013,
+      "sha256": "1d38938d4c4a82732152f3d707e8111ed028666c6221fc4343be87286fa7808f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/behemoth/front.png",
+      "size": 368991,
+      "sha256": "97296064278fbb03a5833728a628c7ec47ee71f8cc9ab972ddeba02a6edc2a6f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/behemoth/front_angled_left.png",
+      "size": 401502,
+      "sha256": "0799b330ec932c00877d9e872a064b49f573e7a383d86a376d3fba6227d5c939",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/behemoth/side_left.png",
+      "size": 314792,
+      "sha256": "eb77ae317796326ef0c0ba4269a488bde0ac7f861648d68271a115b1b803dbc9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/carrier/front.png",
+      "size": 260201,
+      "sha256": "be1712a734e87fa296515458a248ce1ccc64bd2add3bc5a44d503ce09462f554",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/carrier/front_angled_left.png",
+      "size": 305367,
+      "sha256": "b00b01a4ec14cff9b18974d5a4f6b288d63ec2e3f74d057e6d3c5e96060fe838",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/carrier/side_left.png",
+      "size": 209629,
+      "sha256": "d2f21031f4e88e4ba5c11edea93e45d72c3a5d2ff7b535a7ecc6cfd198788511",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/destroyer/front.png",
+      "size": 253409,
+      "sha256": "838561e933e97b1f848ecc7f5650945adba6c1e563cbdb55de3cb86aa4a2fe2b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/destroyer/front_angled_left.png",
+      "size": 266159,
+      "sha256": "1a77720baf332d5616119b509f83e307778e716080d4d3c5e47696de791be84c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/destroyer/side_left.png",
+      "size": 218409,
+      "sha256": "e1c834d2547ef8366eb26712947b07f401ca4cee77ef1e14680046d6f0cabe47",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/fighter/front.png",
+      "size": 185276,
+      "sha256": "5dbe606a49f61a59a0e8acd6e22a45f0618d11a4f0236bf554bbf7488add79a1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/fighter/front_angled_left.png",
+      "size": 269688,
+      "sha256": "37ee949cb30f2dcb3c5bfaf423f00fa461e6f32c586c9247cbd8ad38ce40a691",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/fighter/side_left.png",
+      "size": 204944,
+      "sha256": "727927260e3e2dc19ba8c44bfd549b98ad9b06a69a89fd7102247623a766ed1c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/freighter/front.png",
+      "size": 228915,
+      "sha256": "f1dc667a9a20b0e3ac307d0ac3535548340cb6f3ac77ab8277b3055ddb17878e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/freighter/front_angled_left.png",
+      "size": 278300,
+      "sha256": "03879cb0e84046e2afeb3ba290c38061a7166c90ccafa93d49bc427605dbd5f7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/freighter/side_left.png",
+      "size": 242290,
+      "sha256": "241a7c6f7813d6f1749f4f82501bab9a5f447b418ff232c3829228c582b0c99e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/hunter/front.png",
+      "size": 175316,
+      "sha256": "826af6d3711ecfa06aa6f5172d9e33146d6d933c10ddcdefa93ada3926a0926f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/hunter/front_angled_left.png",
+      "size": 213613,
+      "sha256": "737346ead6d1bb010b3bbcb68d854ae578b4328a25089c979bb930dbb3564b73",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/hunter/side_left.png",
+      "size": 152612,
+      "sha256": "1351b630ff633ba230e7e3f4b83745a64b1774235753a7e579f235e3caef8561",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/seeker/front.png",
+      "size": 142970,
+      "sha256": "b767d5664f5b8e2d214cf941ecad8bb2f513ac7d8ff027bd546842a0929133d7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/seeker/front_angled_left.png",
+      "size": 189724,
+      "sha256": "d2326f36cfec2f38bbbd7e884953720b01203f83163bdf357ee1adeacc36e8f1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/auryn/seeker/side_left.png",
+      "size": 175289,
+      "sha256": "445054fe4ed6208aa8c5054e272e4e6aa1aa19811c8cc0d078cc5547def8ef43",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/auryn/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/attacker/front.png",
+      "size": 382423,
+      "sha256": "a69a683b797f11233ec79682c3eeefe2b6b0ff98a4aed5d04dc9870cac23314c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/attacker/front_angled_left.png",
+      "size": 399744,
+      "sha256": "3a120ca4e8543d2c9b87bccaaed4fb096130c71f875861c46e5afd8173d1e79c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/attacker/side_left.png",
+      "size": 396489,
+      "sha256": "b9dd35307e6a150b70113c4ca585299502744060cf350e5f9c851bca7f3cdfd3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/behemoth/front.png",
+      "size": 567607,
+      "sha256": "f3a78f14b9e6b39ae4cf5c3dc9ddfd68aaf5cb63d4afd9ffc8b8f48c483c0e0a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/behemoth/front_angled_left.png",
+      "size": 538291,
+      "sha256": "9b69d07f5c8b3d7202eed78b855cd729cb3e659715bdc8ac75be9af8c7b391b5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/behemoth/side_left.png",
+      "size": 537693,
+      "sha256": "cec3541e65dfba45b5f9ab08ba0f5cb62496de9c68c5798ea54e13c997d8a248",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/carrier/front.png",
+      "size": 370987,
+      "sha256": "398a1714e01d95599b695d9beab6bfa28f89f918587ba0d254e61aec79c16fb6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/carrier/front_angled_left.png",
+      "size": 370299,
+      "sha256": "a2b5314db59917e6a0a30bcb7cfe76ff3afd4887dee2b82a5135b6d8e399cef7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/carrier/side_left.png",
+      "size": 285185,
+      "sha256": "a4296e19298a576e21eb136b152f5c0c44ef8e668105e0e180a020fa87012684",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/destroyer/front.png",
+      "size": 411205,
+      "sha256": "b42041e8d6ca10d53a0725b0e879b0abb6b3f4c375432de4eefed7f9a7463370",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/destroyer/front_angled_left.png",
+      "size": 407843,
+      "sha256": "89543ee390d83f86e1c5934ef3541b88ecb543896623bdbe75037d7bd98bbbda",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/destroyer/side_left.png",
+      "size": 336522,
+      "sha256": "4bf29ec82f435be9028b9abbafd5095a10a4d663e0ce94014820a03e971222dd",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/fighter/front.png",
+      "size": 333703,
+      "sha256": "939a4fb2553910cac39f1f635a5f569cbcb4fa6ee172cc60f979eb0ecda3aeac",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/fighter/front_angled_left.png",
+      "size": 472518,
+      "sha256": "9e421254deeabb134ee656d00f2129261d660509b97dfc44554f0ca9856ca8df",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/fighter/side_left.png",
+      "size": 345196,
+      "sha256": "dac1e277d83534853ba7ac516b591c04646796b684ce4e3e09c168af97f45c1e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/freighter/front.png",
+      "size": 445224,
+      "sha256": "27c2ce0a93cde56d638abc1ec447e5fdb92ffedec3efffe1f2ee54393fde6a8e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/freighter/front_angled_left.png",
+      "size": 455274,
+      "sha256": "5ebb2638ccb16d351045e07e98c13b858b1721cbfee5f00ab471bdf79dacd26b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/freighter/side_left.png",
+      "size": 410256,
+      "sha256": "0c11e9bfc9be69c97e18ec9dd88db6ebbdc0ae0051c055295ed21e40401e15d7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/hunter/front.png",
+      "size": 253622,
+      "sha256": "281e004aa9f804bbf57b5a8c63d4f56056fd113d903b68f58e6329992adb7fea",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/hunter/front_angled_left.png",
+      "size": 331457,
+      "sha256": "8bb1cbd2c62259c518fd404f639e7c8b60f55180803f5bc5da6d9bdcdd73ac9c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/hunter/side_left.png",
+      "size": 315271,
+      "sha256": "ebee0c177e1735d798f914571890022fdfc0d669ab6451b252387b14633721c3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/seeker/front.png",
+      "size": 282414,
+      "sha256": "5c0862b9885708e5f5091d6f9a19447d4ddd1dd93222b4889552c5a4ec9c184c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/seeker/front_angled_left.png",
+      "size": 272579,
+      "sha256": "32197d215cb7fe4034222427446ca5f1d2b657e9d95cfec6524e5d006aa4fed0",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/endymion/seeker/side_left.png",
+      "size": 223929,
+      "sha256": "5fea6915c535537eb7cd3e0bcf52ae6dc8b6a63026326a889c4a3111e9b55cc3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/endymion/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/attacker/front.png",
+      "size": 275458,
+      "sha256": "43247c7a5afb36640cf58fe013a8cee858c27281f75c0670f2c820239fde9d4b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/attacker/front_angled_left.png",
+      "size": 271956,
+      "sha256": "bc4d8ad8c2fd2948197dd38267ba8f9706d4e64d9ede30a4417bc68e258bd8bd",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/attacker/side_left.png",
+      "size": 251092,
+      "sha256": "a23904f8d379fadd8c1d06790b782ebeebe8cc91f6c1cc6999b0606007a90fda",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/behemoth/front.png",
+      "size": 439443,
+      "sha256": "7a271cfac2074fe9445caa816c2f38313fca325ee12e4f397ba536bc485ae197",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/behemoth/front_angled_left.png",
+      "size": 400014,
+      "sha256": "9b9116ef0ca8d758745c9ea8386720218be627914b42c3541935888d3e105d40",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/behemoth/side_left.png",
+      "size": 343177,
+      "sha256": "99d554aa71a5d45ed27a97bb0b104cda2c5189276a0ecd4369e44d73deb8bd4e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/carrier/front.png",
+      "size": 147319,
+      "sha256": "dfcd370d1ef6d90733769a0139dea6a9aa18d4996d4b574e815cfb9a4b29e603",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/carrier/front_angled_left.png",
+      "size": 163216,
+      "sha256": "fb8af96a33863c4f2c9ae209be7551e94b6b01c192394064386459b89c0367bc",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/carrier/side_left.png",
+      "size": 154258,
+      "sha256": "136a1aad18cf7925870af51e5d6b60d9b767e30fa8885b39e3e9016628da0787",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/destroyer/front.png",
+      "size": 262482,
+      "sha256": "4d98214501785bb900b9cd22bc6f640093327425dfe35bc7fa35fd1ce764112c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/destroyer/front_angled_left.png",
+      "size": 271039,
+      "sha256": "e05a8ebdaad15a60e5b146ce5eef578a6f45a748ac42aed2c60794eee1fa3939",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/destroyer/side_left.png",
+      "size": 264322,
+      "sha256": "6eaf6b1f280c55d6ff9cf007e6610e4962e8fd458d7d477237d0dceaab68dc2c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/fighter/front.png",
+      "size": 220836,
+      "sha256": "2c0a3923232fa95d7d24f68154ad0c677224950e87943fc711ae47c9a8ef0867",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/fighter/front_angled_left.png",
+      "size": 246637,
+      "sha256": "80eb5e9a6923c5338ccfa122e341a249704212388dc9fad468d74eff2b80bf75",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/fighter/side_left.png",
+      "size": 211415,
+      "sha256": "b70b4bd42e7f46c610f7503e0210b25c3cbba9c32e51720ec2ba74d30f2e27f3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/freighter/front.png",
+      "size": 288040,
+      "sha256": "50dc9b91f25dc7e9af1efce10a62615792fc8fc5ca303111b5e0b4407b34fe00",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/freighter/front_angled_left.png",
+      "size": 305103,
+      "sha256": "46e6a51c08aed62179577d21755f9dd9bf72be6300d3f9ca3ee03bce2bd6beb6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/freighter/side_left.png",
+      "size": 317135,
+      "sha256": "06574cd3cabd12be6cdec07735245424f9691376c35604bee4c30f8c9381ee6a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/hunter/front.png",
+      "size": 250837,
+      "sha256": "c33dc96279f85659e5038e82a9445a8eaaeffcc08231e70c7cf5ade798c6ca09",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/hunter/front_angled_left.png",
+      "size": 274999,
+      "sha256": "a1c5ab961ff3888208f48e571bae0a0258145b35e3f92744e226debc20848102",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/hunter/side_left.png",
+      "size": 286383,
+      "sha256": "f991c448458938a1a31efc1287525af02ad75d57b0d48046e143ea34e74ffa95",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/seeker/front.png",
+      "size": 162157,
+      "sha256": "28281aad7b55525b3b0b5e70a95f598423551fc79c6172ea51a17cf63ef8f7e6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/seeker/front_angled_left.png",
+      "size": 187215,
+      "sha256": "089930f27b7877867129ca625978138aa51a29251bc8d4b1a54f94f4cbf3dc55",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/erinyes/seeker/side_left.png",
+      "size": 169682,
+      "sha256": "a2e06a9f7d74c1975aeec76a83087dce0a449f081f3cf38033bdbe4702408f09",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/erinyes/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/attacker/front.png",
+      "size": 389619,
+      "sha256": "cedb145b311d5ad76567b7daced0575ab3b349bcdfd9828cb4927ca1b439720f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/attacker/front_angled_left.png",
+      "size": 373419,
+      "sha256": "f2abd570d181dd4c1fec9477b836597a73135785d606b0c630721b58ba810d19",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/attacker/side_left.png",
+      "size": 317953,
+      "sha256": "2555e60a1629a01d0ce5bcf6b9f04c0cc74a649656f99b07059c533acadc3a72",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/behemoth/front.png",
+      "size": 467496,
+      "sha256": "04238f908a8c714a1e1ab8b5c199e925471f1cf7445ec9b67ba5a67973295b25",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/behemoth/front_angled_left.png",
+      "size": 430872,
+      "sha256": "4c9018e87b61dcecaf4a64c17b27990e584e87d42d650aafef9a69846dd4a0c4",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/behemoth/side_left.png",
+      "size": 355473,
+      "sha256": "2963187b886d9f61940f2d28a7fa5ee3a037c0d02403560c150627618440f893",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/carrier/front.png",
+      "size": 358511,
+      "sha256": "4d0006412648ac9e7d59e9596a9be381425cd6dd891ec9b053acd89b6320448c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/carrier/front_angled_left.png",
+      "size": 313320,
+      "sha256": "c603e27e6ca78ca51cbac0db26e3caad3cb456b43c9bdb57b68a435c36a70fe4",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/carrier/side_left.png",
+      "size": 154959,
+      "sha256": "7860178cd545aedab62dd62b88491ae13ef9844c3583e059672af7164caf39fa",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/destroyer/front.png",
+      "size": 389619,
+      "sha256": "cedb145b311d5ad76567b7daced0575ab3b349bcdfd9828cb4927ca1b439720f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/destroyer/front_angled_left.png",
+      "size": 373419,
+      "sha256": "f2abd570d181dd4c1fec9477b836597a73135785d606b0c630721b58ba810d19",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/destroyer/side_left.png",
+      "size": 317953,
+      "sha256": "2555e60a1629a01d0ce5bcf6b9f04c0cc74a649656f99b07059c533acadc3a72",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/fighter/front.png",
+      "size": 181111,
+      "sha256": "6e2e2194e700d4634d242579cf59fc2ed38a71421b9374564561a04c19cc408a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/fighter/front_angled_left.png",
+      "size": 193465,
+      "sha256": "be6f5446a61e9dfd9cfb04a5c0b24829823df3a37dd5e644f2c5cc879d1c9731",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/fighter/side_left.png",
+      "size": 86749,
+      "sha256": "f90cdba57ae65293550ab1b4635dbda6db1ff2442ea3036d5cfeabaae9af00ca",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/freighter/front.png",
+      "size": 337177,
+      "sha256": "4453932778c9818affbe96931df1fa459537d35aef46060404ed92b7eaa06207",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/freighter/front_angled_left.png",
+      "size": 302252,
+      "sha256": "779814531dd2f5fb17c2bd4ab397cd6b0c4c6ca8c15af9b3d999f852e9ba4480",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/freighter/side_left.png",
+      "size": 345972,
+      "sha256": "158c3a68b3890b7e6a33d5ee0b9f32a6095274a7bb4a5e50ff740734a387553c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/hunter/front.png",
+      "size": 336673,
+      "sha256": "03107a94b7178df3eccdbaf478d9bf4e584dda6728bf28a57fe5bd6c409bfdd3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/hunter/front_angled_left.png",
+      "size": 266566,
+      "sha256": "89f48b354df4f63a3374f5c6ce92231bcf4cdc6fb40e2be7ef3c5a0840e59e1f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/hunter/side_left.png",
+      "size": 129568,
+      "sha256": "64b834f77eb95f1c218e2039629130c4e10a0f50d2ee208cac745521d3052d83",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/seeker/front.png",
+      "size": 390602,
+      "sha256": "14f8db7f18914e8939af600a64f3b75c0b749c2f525304eed38355c5450c96e5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/seeker/front_angled_left.png",
+      "size": 331016,
+      "sha256": "07d066fb152592d093d06fa8ca606f07da7f2e97a0311c2675bf7644c1713760",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/helios/seeker/side_left.png",
+      "size": 140904,
+      "sha256": "a9191ca91295883c9a84a33e2b6c6549fe399586dae85a83c199b95305f8d722",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/attacker/front.png",
+      "size": 322898,
+      "sha256": "98a7ed27ced9d5ab3edb7a343007acca9892a618f44d3736c78f7ce4f51f4585",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/attacker/front_angled_left.png",
+      "size": 368988,
+      "sha256": "ab5df671316d480980cf0dd485ce75ee3d7929e8a7f47427448982614fa6e944",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/attacker/side_left.png",
+      "size": 352438,
+      "sha256": "e555b279ff01b1480f2d7c0a61f1146db2d52e4e6c74664356dbd23de1d59d75",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/behemoth/front.png",
+      "size": 525104,
+      "sha256": "f189481b0cfd211959e9132092610a2d6948895c4a7f7bcaf95870a0e53e904d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/behemoth/front_angled_left.png",
+      "size": 464968,
+      "sha256": "a59e315604138406eb261a666b888071971e4a93bb006d48ecec2b4c6e3a97d8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/behemoth/side_left.png",
+      "size": 502162,
+      "sha256": "29ec64ccfe97473b567f343f795898a6b021f42756586764280314d11776e109",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/carrier/front.png",
+      "size": 393742,
+      "sha256": "1654bacf4ef2c2716cda71b0b7e54363c7469ff2d70a7bb000d1ac370d7096a3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/carrier/front_angled_left.png",
+      "size": 358471,
+      "sha256": "03ec6882bad00c8c81b8185d381250075028dd22973f84f9c9bf744e6c480d5a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/carrier/side_left.png",
+      "size": 347361,
+      "sha256": "90875e31e748f83524aff8fce57b1bd59951a87a2534226fa5609e68b3ce11e6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/destroyer/front.png",
+      "size": 347507,
+      "sha256": "10e563b20d0532568d1d971dbf8ac40e35d2cd910821476631682018c9c55bc4",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/destroyer/front_angled_left.png",
+      "size": 430149,
+      "sha256": "0c2b4b00eea12a06bb335e113264797d19ac27ebd0eea24477f15ba378d6c453",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/destroyer/side_left.png",
+      "size": 391516,
+      "sha256": "2584b06802cb4d496472bfde724bda7a7cf398d8382a47faf8738a00719d1474",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/fighter/front.png",
+      "size": 196265,
+      "sha256": "eb1eab975c84ebe602cc4b5c96cca8839a005bad1e5682526439c1e3818d6a5b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/fighter/front_angled_left.png",
+      "size": 218669,
+      "sha256": "0f595b52944396efaa818b78ccf4c2a81dbb0d7094ee7943f46080ea48d853a5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/fighter/side_left.png",
+      "size": 243396,
+      "sha256": "ca91af14f7db8c5f0f468597243b1c87378ada9afada4e88b4b06321d52b87b1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/freighter/front.png",
+      "size": 327255,
+      "sha256": "4016f144632ee31e5bf8bf9cc933bf05f7c9ec4bbe8fe4c22dcca313dd9fbd4c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/freighter/front_angled_left.png",
+      "size": 349526,
+      "sha256": "c48ed69c3cfc4a937fe0ae997db363651bc142a9728ae8f4416e0f95d4a9471b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/freighter/side_left.png",
+      "size": 337967,
+      "sha256": "5897ab5339eb55165dec26caed03dc794932bb92ffbcc12812ef440f36ef5af6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/hunter/front.png",
+      "size": 196675,
+      "sha256": "8558e0531a857f6d9fadb8021f6ad33aac666c91ded7045d6f2ef8641e614204",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/hunter/front_angled_left.png",
+      "size": 274682,
+      "sha256": "497ccd59e67bfd70da24ae4df432ff04564d309e79e900e4d751cad4a2f70043",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/hunter/side_left.png",
+      "size": 291796,
+      "sha256": "ac40544c4479d448bf1e766fe9ff5e93de2ede611dee36d2db680eeaa80b2ba6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/seeker/front.png",
+      "size": 292594,
+      "sha256": "df6859efc3f507887ed71258db9887b23421ddab4ba3dab32b4b3157cbd65a65",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/seeker/front_angled_left.png",
+      "size": 279064,
+      "sha256": "8a8b6acf07db601c0c61ce157014f2168b526a04ea62e4c4a1733d6dd99792fd",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nereid/seeker/side_left.png",
+      "size": 270132,
+      "sha256": "fddbed7489302c8c7a355a4a3c9091132549138e31c90b1c71a36b7501694612",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/attacker/front.png",
+      "size": 78631,
+      "sha256": "79699c8b202065fa5c7736b286be62c954d8c69df85b1a7029ef0be6deb5b2bd",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/attacker/front_angled_left.png",
+      "size": 74099,
+      "sha256": "06b2310d8eb16fc2c2b7c58f914f674e9eb10b543f3b626abc836580fbac7605",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/attacker/side_left.png",
+      "size": 50781,
+      "sha256": "9516de4a64abf6841cedf89ba3b00b5abfcca0f3134add6a480730c57d095235",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/behemoth/front.png",
+      "size": 429782,
+      "sha256": "9a06c7a86b2edf67c795edf4d495ee35101259b8ab8b7ada2ed098440a042e3a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/behemoth/front_angled_left.png",
+      "size": 452242,
+      "sha256": "5d928e8e75a8ea0190f14691ba2cdd324a8e7cc72652b1f073441958a57be527",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/behemoth/side_left.png",
+      "size": 449251,
+      "sha256": "82ba71435ebb16de967099052656a23509acd00c7ce3111ae83a449795216b8f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/carrier/front.png",
+      "size": 114068,
+      "sha256": "a4c53346ea95e5a7134f4ec14141d5a540fb770df1fe4fdb86c819f345a71c3e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/carrier/front_angled_left.png",
+      "size": 97567,
+      "sha256": "5ce9a0ff4279470cd1db686dd902f66fe202e44759a4fc6585694c2c805fcd33",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/carrier/side_left.png",
+      "size": 64231,
+      "sha256": "efad7ad2bc0195ec7758edad92ef15dba11dbeb53e1daaea1c3166d19ae55d73",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/destroyer/front.png",
+      "size": 357397,
+      "sha256": "cbada80c13327c46692fc5545babae19868728579f860e76d8d5087389c7ebc1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/destroyer/front_angled_left.png",
+      "size": 385614,
+      "sha256": "72cd4c2a84daac80a5f7ee4180164b50a665d4409b49e2d330de606036bf6dc5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/destroyer/side_left.png",
+      "size": 368330,
+      "sha256": "32b4e6ad516678a6406b01684bf552fe172ea01b2e80528a8ece23287d788402",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/fighter/front.png",
+      "size": 26649,
+      "sha256": "eafc35857c642e7b317606a29eb0b0ae4adcda9afd9bbbac045d6c5916bdabfa",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/fighter/front_angled_left.png",
+      "size": 32631,
+      "sha256": "43938bbb48f332dcddc31f8c0c837136ec2c81d8c83d0ec3de32fd9258f39350",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/fighter/side_left.png",
+      "size": 27297,
+      "sha256": "c3cdd3d0e904113befe66eba5a8aa6156e0e6f44cdaa827aeec1501e2851eb55",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/freighter/front.png",
+      "size": 62080,
+      "sha256": "3f510ce2d55f058a88ff572917cb853676de94e7cfdef25a9c463f3380f0b1e5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/freighter/front_angled_left.png",
+      "size": 74354,
+      "sha256": "26929f6a340b0ba3fe66d916827fb7f2e36ac01e5b136786e5fa3218fdb659f2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/freighter/side_left.png",
+      "size": 53884,
+      "sha256": "26901f79f7998d242aa82d7f30144aca2411fd9d31fd1797fe0abf27ee5b5981",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/hunter/front.png",
+      "size": 61003,
+      "sha256": "9f02895f235bb90af090a9f9752be094540bbb0b794d734d071801d47ee03fe7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/hunter/front_angled_left.png",
+      "size": 63620,
+      "sha256": "b43a3a2bafca5958148aa5aecaba71eb00c31b0f40d0b78a3ac9c59875d92bd9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/hunter/side_left.png",
+      "size": 47941,
+      "sha256": "7766472d29f848d653e064b88c35c59a20c591595bbb501152835e52b5ed18a9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/seeker/front.png",
+      "size": 44001,
+      "sha256": "5b78bb3bd462f2b01dd223b2527f1c0e9b3b3c9f5d10fc353be45dd4c10d5401",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/seeker/front_angled_left.png",
+      "size": 48230,
+      "sha256": "b0cd1a19596143f4968d9d1624e32007ad4548a9ae90c114dc480e2af1138fcf",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/nisus/seeker/side_left.png",
+      "size": 42764,
+      "sha256": "0cdb3c9026a9687cd33108958bb64273634f60e62aedc3dd5910b67a2096351c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nisus/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/attacker/front.png",
+      "size": 402992,
+      "sha256": "04980442992a117050786326f7037f3b9f60a7e7ef8fca400f6076058aec9ae2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/attacker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/attacker/front_angled_left.png",
+      "size": 398661,
+      "sha256": "aedaadc635b52742feb18a69cade0e34636602cb6bd296892a6597eeb8048f0b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/attacker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/attacker/side_left.png",
+      "size": 304610,
+      "sha256": "8c1edf046a9bd3adde5d74ddb1c13e1cc524383367421cbbf49c7d4fce0b9faa",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/attacker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/behemoth/front.png",
+      "size": 532739,
+      "sha256": "d4d43c1f117c465c19a6d31585f68052f16084d02d7fc5a5ff4f5378dbaae01b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/behemoth/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/behemoth/front_angled_left.png",
+      "size": 533406,
+      "sha256": "44bfdc827e1f0bfdb5730e493d2487999f62e352a6ef5ecd95853b01125a08a2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/behemoth/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/behemoth/side_left.png",
+      "size": 413341,
+      "sha256": "41e642ace0b2c42658b982f0aa7591b1392730c73563ee3b551de3ce26b2633d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/behemoth/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/carrier/front.png",
+      "size": 270258,
+      "sha256": "0ca31f18712671b0114e365e89c16500140322d94c0058c59ae8f571e3b4ccb1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/carrier/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/carrier/front_angled_left.png",
+      "size": 297366,
+      "sha256": "a8b3dbde08ef7022c993809fe0061fce0bba949bb539fa456f47bef7fbb77640",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/carrier/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/carrier/side_left.png",
+      "size": 213980,
+      "sha256": "1f180b4782f68580588d44574d6610c312ca1b3f78301df79bfe40ad2a7bfad4",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/carrier/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/destroyer/front.png",
+      "size": 386525,
+      "sha256": "9b3e34c012bd87d602bd7d561c81c2aa6131f3b7d2415f33fb37c5855d941cee",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/destroyer/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/destroyer/front_angled_left.png",
+      "size": 378846,
+      "sha256": "eccf8404415dc7ac48513c71e502c95c7a4fa3077e5af9925cb0797459d68033",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/destroyer/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/destroyer/side_left.png",
+      "size": 345841,
+      "sha256": "9e1d9bebfd51cfe9ea0a9c8dd464be4bea3c8710e57889907a5ad8da5ce1afce",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/destroyer/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/fighter/front.png",
+      "size": 255221,
+      "sha256": "92cf98536e3fa2a1e46bd71ef419f30db0797b451fc798bd9c5bd8eaff70b305",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/fighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/fighter/front_angled_left.png",
+      "size": 287452,
+      "sha256": "c9f31cbde282051e3b2d41f2e61589b358129211bbb81a75fdde291ba64eb2be",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/fighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/fighter/side_left.png",
+      "size": 265244,
+      "sha256": "86ff7b842b5ffe7666d38ed9e81fe144a05f50bedb70015da3ae0badabc3e891",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/fighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/freighter/front.png",
+      "size": 386051,
+      "sha256": "54e82d37fc38d5c7bdc7aa6a64ac5decbf14b32b6d2168181d465b3e5bae32d0",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/freighter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/freighter/front_angled_left.png",
+      "size": 380878,
+      "sha256": "47eab73685c6a82328909e988c4b9a745a349df2bd71c9e24c042b7cf19e6697",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/freighter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/freighter/side_left.png",
+      "size": 318376,
+      "sha256": "0554f05e3631e985e5197607d29dc9c4baea58cd959fa69815542ae46cffaae4",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/freighter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/hunter/front.png",
+      "size": 339463,
+      "sha256": "f3bdba284541d59576b1671d3c4370d160c01cbf1826cf043fe32b1795a54b59",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/hunter/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/hunter/front_angled_left.png",
+      "size": 348809,
+      "sha256": "c8d8ebd66ad8ddf1eac4abe491f5d57316239a82c3705d89c0311234e1fc2ebf",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/hunter/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/hunter/side_left.png",
+      "size": 317287,
+      "sha256": "306ee3483cf6475d95535ad17fca6ab50a1681b4b2caccd097b6c4c39eb42fa3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/hunter/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/seeker/front.png",
+      "size": 327195,
+      "sha256": "c5a9d150cb3838f7e99c97495967f0264002e1cbdbf3e3387f2af1be49469e6d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/seeker/front.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/seeker/front_angled_left.png",
+      "size": 312701,
+      "sha256": "a972ac65dec57c8be88399b800bc59496529e2d3449c859c894ae6307b5726df",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/seeker/front_angled_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/field/talos/seeker/side_left.png",
+      "size": 260719,
+      "sha256": "f96648ad9dc00325a9905c48666b92949865a625028954c6a43921c84021bc62",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/talos/seeker/side_left.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/attacker_right.png",
+      "size": 311472,
+      "sha256": "73d387af9119af6ee8b6fbbcf0dae85cca31ca91e0c83d55c89b436998c80cd3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/behemoth_right.png",
+      "size": 385767,
+      "sha256": "5007dcd3627a8a24e1ea674c72394952108073a2c37ed72c8768db2ecf230a0b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/carrier_right.png",
+      "size": 243922,
+      "sha256": "065561eb4e68fe75aed32f0679a45b0cbf7d0f30ce8a120aedf2516275b05519",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/destroyer_right.png",
+      "size": 327452,
+      "sha256": "0211e1036cfd4b4ecf3d780259cecb13e5fb3c4d1ece23fdb631f61fb692ba76",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/fighter_right.png",
+      "size": 251868,
+      "sha256": "600f0d426132451f7669f5ce0b56cca41e2194b9b734c927aed2ba39ba12487d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/freighter_right.png",
+      "size": 332104,
+      "sha256": "edf024987497c71e819d8c5d288b8378d45968cfd0f9a2a74d7a6b6b3e40095b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/hunter_right.png",
+      "size": 218623,
+      "sha256": "ac4461ad0249ff9f7bded24901b066dc49062a7998be1fda091722e993a4b61a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/andros/seeker_right.png",
+      "size": 298896,
+      "sha256": "152099142a0f78ba3cb01e5e63a03a271e6dab9ba3641bf17c2801ac058bbf12",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/andros/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/attacker_right.png",
+      "size": 189529,
+      "sha256": "f4b3fa6b149527ff8509dd6597a0acc9c39ddedf6314cca51f567c294148ade5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/behemoth_right.png",
+      "size": 356040,
+      "sha256": "76dcfab695562b9e5cf06c7e3ae0cba59005c07b46df29337b76b1bcffc49844",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/carrier_right.png",
+      "size": 189157,
+      "sha256": "5df7ee78dcd45661cd5962d1d1419ecaecbb8c9208c4d15b3d22c0fec102f29e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/destroyer_right.png",
+      "size": 336141,
+      "sha256": "2aa116222f3a9456190d428fb9ba6b9820d3f0472d236cece17e3bc3e60b613c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/fighter_right.png",
+      "size": 97232,
+      "sha256": "a7c91c95f0dbc20d51e24393357b88f5530c464f07b84a26f09ee4a8ff5b314e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/freighter_right.png",
+      "size": 185584,
+      "sha256": "3637461e943a63743a045704bc3e4fa7fc7b63719560493058c4808ca505040d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/hunter_right.png",
+      "size": 146598,
+      "sha256": "c202fb71ada6bd3dd2102b57358d74fd52429b0da56937f8366604b6dfcc6592",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/arachne/seeker_right.png",
+      "size": 80656,
+      "sha256": "1446eefadc47f5a87505e5bcf48e907ff20a88f010a1cb3088889d5854a4354c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/arachne/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/attacker_right.png",
+      "size": 287278,
+      "sha256": "7f253fada67defecc14cd13505b2cc96bad94513e5a6a426eae64682edce726c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/behemoth_right.png",
+      "size": 403990,
+      "sha256": "1994046c396a3211d28f1dc5d103aa9d470331fbc3bde3f5a62660664e922334",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/carrier_right.png",
+      "size": 303164,
+      "sha256": "6fa4ba8868dd863c0cab4c2a6483a7173c0e36fb7c968d5b59339e86eba3037b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/destroyer_right.png",
+      "size": 268140,
+      "sha256": "c668541dd83d9b0261e2335f56244c2045e1edbcada3f937acaa3836ceab8402",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/fighter_right.png",
+      "size": 270556,
+      "sha256": "96c3c0b6f6c8819eaaa6fff98f1ed19a0c75bc49bb105f48dfbfccf79ab24473",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/freighter_right.png",
+      "size": 279889,
+      "sha256": "ff964bf4e71b9f95d03bd4809ea312b66b50479425b99b93c7b107d972f62cc5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/hunter_right.png",
+      "size": 214047,
+      "sha256": "8aa83f935dab8364bdc071f355fec11e328a2f8b7c398502cc6b7d25f0005db3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/auryn/seeker_right.png",
+      "size": 188314,
+      "sha256": "981d6a4a11ddc42b449f564c34dfd0b60e2c0feb4f47a5f78706542f602a1488",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/auryn/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/attacker_right.png",
+      "size": 403795,
+      "sha256": "661e5f114d13661d23cc0b4587e617f559728403c12a6f0e6b9ab072dfa43eb3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/behemoth_right.png",
+      "size": 538837,
+      "sha256": "54ac1caa8f46521180c6c108e4427dcbf6c45ca55c8c3c91947b36eba84a6081",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/carrier_right.png",
+      "size": 370550,
+      "sha256": "9a820af6aaada29c2d0147fe325362cd232e614a21113fb9dd69bf2be303183b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/destroyer_right.png",
+      "size": 408724,
+      "sha256": "5830e04f6bf6107aacc14356a9ac263908bee47a12555eb950d02b5afbbfb4c9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/fighter_right.png",
+      "size": 475942,
+      "sha256": "6536861c5652697c6bbda44b0df98fcd6fd59eb8e7f438bced1cf0895f49d88a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/freighter_right.png",
+      "size": 455971,
+      "sha256": "7ee61fb44b2cf4a4bd4dd656cb253f667122c3666db90da9c2895b5e2c3c9491",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/hunter_right.png",
+      "size": 333489,
+      "sha256": "c1264f17a20af74e17bb6e89edb96a4c5fa2ca3d6cd0541e7d28274efe1a6547",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/endymion/seeker_right.png",
+      "size": 273156,
+      "sha256": "acc0ea92052d53c5d5bed57e5be5a4bb3a1301dca56f3b586c6f59976dd18a0a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/endymion/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/attacker_right.png",
+      "size": 295017,
+      "sha256": "616f14fe07009fedbdb4a1940bf812b94e345c2816c80d5cdcfd798332b4e3fa",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/behemoth_right.png",
+      "size": 408141,
+      "sha256": "6f5e45ee71193accd2a0e9984397b0c8c4d8c1e9bf4342d46adf33a6143b5a6b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/carrier_right.png",
+      "size": 162327,
+      "sha256": "39348f7bc8785695647e00959a44587430f494a25708358f3233572a88aa6700",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/destroyer_right.png",
+      "size": 299473,
+      "sha256": "c54e5efc0449058211376a9d8f0b25ad67492ff33b090d093bb958789e18778f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/fighter_right.png",
+      "size": 254509,
+      "sha256": "41f2a045044b813cd8c95a8aba31acfb2f4380160f46e8a1bacb80471787729d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/freighter_right.png",
+      "size": 318494,
+      "sha256": "c2a777890fe0a90c13bf51b30c749dd0b764bca83e3910e07adac09555f1c366",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/hunter_right.png",
+      "size": 281353,
+      "sha256": "d1da99d3cb33ed873e76d0491c1ce9c33b82a5db14c72cb70a3aa33ca670017c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/erinyes/seeker_right.png",
+      "size": 183863,
+      "sha256": "92fff29f29c15506bda8112b2c56de6f4c95f9512d428323df51c3a861e5cbc3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/erinyes/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/attacker_right.png",
+      "size": 374329,
+      "sha256": "536339ea796f6b5759a3a87f4e908533e87a02e98ac208f224eaa0fdcde4d122",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/behemoth_right.png",
+      "size": 432836,
+      "sha256": "f815e1480d102d9733d2a00f3a93120346ebdb656341b66c2512458fed32674e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/carrier_right.png",
+      "size": 313416,
+      "sha256": "76123fe6891b88a2b4e8ec125fd56e671e3a145340bac5e593612166dab54d5c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/destroyer_right.png",
+      "size": 353531,
+      "sha256": "bc9663766005b9a3287bc59bdc45acd16582355c9b65e501ef2b4f16bea60063",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/fighter_right.png",
+      "size": 193203,
+      "sha256": "416bd4e9b7362d71ef984644e6b954880bb54b6467302042b67b0af1b12b2b7a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/freighter_right.png",
+      "size": 303338,
+      "sha256": "53bbc7151b888734bf5fce643973b94061c87097e55ddc3f575dd0fde0320f4a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/hunter_right.png",
+      "size": 266748,
+      "sha256": "a514a19f17a5099874abead88627fe047f51e37f32b37dd51a725edf8c96b6d8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/helios/seeker_right.png",
+      "size": 331024,
+      "sha256": "d2616eac2e0f4a17631f8ebc9533c7cc789906d258fdc1285d85375d647851eb",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/helios/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/attacker_right.png",
+      "size": 370365,
+      "sha256": "b979d573bd6d545b18b05efb5d09db5b120c1164310714a84c8014109332bf4e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/behemoth_right.png",
+      "size": 466666,
+      "sha256": "263149f8ec92d23bca74f9004e93788d5091e3e590638cd27ce3672f47743015",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/carrier_right.png",
+      "size": 358118,
+      "sha256": "e01923a748084fe56d9c13fda317ebb67a16e4d54f1d0c9355ed352c009a60f5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/destroyer_right.png",
+      "size": 430914,
+      "sha256": "1c7386627261c3caaa8edb6fe516e0ae42f71972e7147a098a6fa43e8116f6e7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/fighter_right.png",
+      "size": 221311,
+      "sha256": "a95380f683c875cb6fcd56dbf8cc100ac0e731c9b3f9fe76899f978142867bbc",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/freighter_right.png",
+      "size": 351774,
+      "sha256": "2e95aa0ff710ebf18166c227892dd912efebf419e97a0260f4b0600d4196f441",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/hunter_right.png",
+      "size": 277708,
+      "sha256": "3c05f404d6f86b6c94cb787440454d2b5935cbfe1778dd0376bc19c6bd4c2049",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nereid/seeker_right.png",
+      "size": 279568,
+      "sha256": "b34519a47be348de9f4ac8fa5683a911183bc1aee6ad94c41577769a56235258",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/attacker_right.png",
+      "size": 270494,
+      "sha256": "3fe207d210c5b41a66ed699b11eda349e925e9d7a2bf7775a0440b96a26307c5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/behemoth_right.png",
+      "size": 457601,
+      "sha256": "4dd856b3e7453f456fad9139746d0e9391b0dbbe707cb17630f448d81f8e4928",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/carrier_right.png",
+      "size": 342717,
+      "sha256": "617b3486f95702d7346f805590b5a05c9a8800d72945f8769e20f09a2e57efc2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/destroyer_right.png",
+      "size": 391612,
+      "sha256": "39e56a9b6c4c3ceb01e510dc8cdefe869807ccd58139e592526c265f32fbe42f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/fighter_right.png",
+      "size": 93357,
+      "sha256": "fe6c290e69e837139b5d5b6b7c9140d0b194cc43a9afcb03ce841b7d51069a9e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/freighter_right.png",
+      "size": 252292,
+      "sha256": "1004ecd2bab4d4ff7f7ab859217c38cf7bbdf4d06dce641599c44b259ec4b154",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/hunter_right.png",
+      "size": 193989,
+      "sha256": "ef320068ec2321fc41a4224e30fd1984dfe837de4d817922ed2b7a7b398c64f6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/nisus/seeker_right.png",
+      "size": 146845,
+      "sha256": "be261567caf79c83bf19da21716e7051f344d8a2c8a4ff51f32818b7bf151745",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nisus/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/attacker_right.png",
+      "size": 402409,
+      "sha256": "bda3122aa685927b457ad9c3e0b370d2ce29f0641c386ca17d2fefa88ab09094",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/attacker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/behemoth_right.png",
+      "size": 538853,
+      "sha256": "ef17865710e367cf3758fb8e2e849adc897e201057327b44604c43a8de390b1c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/behemoth_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/carrier_right.png",
+      "size": 300814,
+      "sha256": "06ea9ff6d07f61d83f094ad86faef513c878c1923e6a3f8378cf5490f42b3788",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/carrier_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/destroyer_right.png",
+      "size": 382402,
+      "sha256": "cc3ca37657e6f4ea854323638fa72a21163d5aefb8cfe9da624eaa6930e9fec2",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/destroyer_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/fighter_right.png",
+      "size": 291696,
+      "sha256": "ac12259556f7437e0b02196d573577aec3e02c1fba43323eb69eca6148231b75",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/fighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/freighter_right.png",
+      "size": 383764,
+      "sha256": "9ce3e9f9d0ca012901a0bca2f298571f8240e9eaa52de8e0ba6c466cd42209e4",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/freighter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/hunter_right.png",
+      "size": 353287,
+      "sha256": "4c174814acaf4d2c54bc44864ebfa51e862e6b475bed13d4cb0c37da3c99b7b8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/hunter_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/ships/shop/talos/seeker_right.png",
+      "size": 313179,
+      "sha256": "40c6030e63b019cdd36feb52cc3f92497261d945d998064c14639d24627f73ad",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/talos/seeker_right.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/extras/autopilot.png",
+      "size": 267961,
+      "sha256": "34a3323954bba58559ca3688122c6090cdbc071a7fc93b371400ac6f77f63130",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/extras/autopilot.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/extras/icon-autopilot.png",
+      "size": 64551,
+      "sha256": "6f8321f2f4a5d55fd3d1149982b75a4e202fc3665f6214ab58b213c4580eb5f5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/extras/icon-autopilot.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/extras/icon-escape.png",
+      "size": 63922,
+      "sha256": "d92aa5f36f6e3b1892699ff6d3ff975211860c20190802ac041f64caedd75db1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/extras/icon-escape.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/extras/quantum-escape.png",
+      "size": 297047,
+      "sha256": "f65eaef73c3771395d62ee7beac3aedeebcb94c913c3aa5fb6f0e8f6e993db6a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/extras/quantum-escape.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/extras/quick.png",
+      "size": 286463,
+      "sha256": "4f46cb45a17e8a29ab1778ac8ef16be783ca4ca3cd221604b12eb65d96787162",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/extras/quick.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Axiom Splinter.png",
+      "size": 257820,
+      "sha256": "35718993c916984481c71dd943b20f2b9a1320bf77176fc0b011536a9bb3d34a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Axiom%20Splinter.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Cryon Arc.png",
+      "size": 264719,
+      "sha256": "b6b1ff551488a23068b8ac5aee0c9c5250d030b9a4032b1d63faacb892c09673",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Cryon%20Arc.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Drive Warper.jpg",
+      "size": 1175,
+      "sha256": "1238f5b6c4b406a5501fb4da1ef7b2523d1fa458ad7793daec63a04b32860b89",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Drive%20Warper.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Helix Vektor.png",
+      "size": 258401,
+      "sha256": "cca80475579e6c4023e62f71f3b238f3d5d176357ad1e197d888f43723e80281",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Helix%20Vektor.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Infernal Ray.png",
+      "size": 216107,
+      "sha256": "47ca6464853ac43aac993f6c82b5d3ad2f1353e7ed1c1a8b67bf9ee7bc32aee9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Infernal%20Ray.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Ion Stream.jpg",
+      "size": 1031,
+      "sha256": "6e55d6af8d9c8ba80fb2f5924e05922fde09018c6528a1bab4afc5a212b7115c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Ion%20Stream.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/K14S Cannon.jpg",
+      "size": 1121,
+      "sha256": "372bd8057cfd5e86cfca4cc193b47195e8a76167987badac49b7dea1dea1badb",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/K14S%20Cannon.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/K7 Cannon.jpg",
+      "size": 1002,
+      "sha256": "2fb110039f6804990a9eac69d8b2230fe606d00ceecd185e5434259a475b639f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/K7%20Cannon.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/MK1 Fury.jpg",
+      "size": 1029,
+      "sha256": "6e45b238032b98d107f916f3d308a6186d1a629b40424e3505d2953cb1f708cf",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/MK1%20Fury.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/MK1 Sunburst.jpg",
+      "size": 994,
+      "sha256": "32c35ba467afa4ebabdf9a33835c494c73bfe1589c1b96d468e9efd788df0736",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/MK1%20Sunburst.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/MK2 Fury.jpg",
+      "size": 1063,
+      "sha256": "b9a36e82d7edba09318c140ccc75e8fc2f57d6152de841589b68cb831f16a9cb",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/MK2%20Fury.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/MK2 Sunburst.jpg",
+      "size": 1010,
+      "sha256": "675713b3ca6ae2fb209f6f1bcf272fd3d1f6bfb9b2a38b1460241ba2b723de56",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/MK2%20Sunburst.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/MK3 Fury.jpg",
+      "size": 1076,
+      "sha256": "7c394c71e9a68c2bc2d4aaf4b8980f51fc131490a1466ee4dc8b13f429580e33",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/MK3%20Fury.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Nemesis Halo.png",
+      "size": 328754,
+      "sha256": "2462f7ee22fa3bc331c4dd16bcf0b8e801da3d72222759e106365be6ef7cb5c8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Nemesis%20Halo.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Nova Sunder.png",
+      "size": 311481,
+      "sha256": "40485efed23b747c1e10dbb0ebfb3cda8b80dacc17e35af10cf3ca35308fdeb3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Nova%20Sunder.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Oryx Rift.png",
+      "size": 271514,
+      "sha256": "596a7cf55a9696c6e9471847d9e1454df693213a64898009a942c01af9f6022e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Oryx%20Rift.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/PLS Beam.jpg",
+      "size": 883,
+      "sha256": "cf9cec8af19a84d42029f531f001d08db0c32b9e6cb40c6ac83cb36f08eb72c5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/PLS%20Beam.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/RPD Beam.jpg",
+      "size": 1036,
+      "sha256": "54536ef7d04dc54ab250a5cc984ef697c5ca74c5bcb945f55aad84502db213b6",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/RPD%20Beam.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/V1 Blaster.jpg",
+      "size": 1150,
+      "sha256": "2cfab80daeed09162baf0cae8aaf3c909110d00c08d282e5d85a8a0c6a6e0f5a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/V1%20Blaster.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/V2 Blaster.jpg",
+      "size": 1129,
+      "sha256": "0ecea763f8062a89afe3ebdb1cae70a6450cc95d57beceba294c203faac7f4c9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/V2%20Blaster.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/Vanta Shear.png",
+      "size": 275371,
+      "sha256": "2bd5651a05b990d2bafb2a15a2df02549702da362ba2073b12c4e7fca5548518",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/Vanta%20Shear.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/icons/empty.jpg",
+      "size": 1191,
+      "sha256": "b8c7bd29e0a547179daaa5e247519a09a22768612cf7a644681728358ba46b33",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/icons/empty.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Axiom Splinter1.png",
+      "size": 257820,
+      "sha256": "35718993c916984481c71dd943b20f2b9a1320bf77176fc0b011536a9bb3d34a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Axiom%20Splinter1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Cryon Arc1.png",
+      "size": 264719,
+      "sha256": "b6b1ff551488a23068b8ac5aee0c9c5250d030b9a4032b1d63faacb892c09673",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Cryon%20Arc1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Drive Warper1.jpg",
+      "size": 12699,
+      "sha256": "c69213da53baeec7124c0f653dbc65ffdb000a53941d10576dc8894e89eaec93",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Drive%20Warper1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Helix Vektor1.png",
+      "size": 258401,
+      "sha256": "cca80475579e6c4023e62f71f3b238f3d5d176357ad1e197d888f43723e80281",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Helix%20Vektor1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Infernal Ray1.png",
+      "size": 216107,
+      "sha256": "47ca6464853ac43aac993f6c82b5d3ad2f1353e7ed1c1a8b67bf9ee7bc32aee9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Infernal%20Ray1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Ion Stream1.jpg",
+      "size": 8938,
+      "sha256": "e28426cbbf23355635af9169cb9675f5e09eeb2e0ae3a905a32e640336c4012f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Ion%20Stream1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/K14S Cannon1.jpg",
+      "size": 11708,
+      "sha256": "13d44b0869044dab23dd412e3c33ca778931d4f387a36c2bf58a604ec80a2241",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/K14S%20Cannon1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/K7 Cannon1.jpg",
+      "size": 8807,
+      "sha256": "e2f8af129d40bb921f8357680ce84b2dcb465ccebeae3a7bda6d06475d87b5a5",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/K7%20Cannon1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/MK1 Fury1.jpg",
+      "size": 9302,
+      "sha256": "396b2f8c2d03c3b1c45c67dc46b26afa040102559a5ae1884ab0083bcea4e503",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/MK1%20Fury1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/MK1 Sunburst1.jpg",
+      "size": 10433,
+      "sha256": "511ce07a49508a393bfbdd7732a4ba5978b4585604b192e438c0527aa85856f7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/MK1%20Sunburst1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/MK2 Fury1.jpg",
+      "size": 12169,
+      "sha256": "b55b7b20be376da216f15cb52acb2419ff0c4479060783fcdb7724c9304476e7",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/MK2%20Fury1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/MK2 Sunburst1.jpg",
+      "size": 10378,
+      "sha256": "65f31c2934b03788f6ddf22e403e81423760eb1f0d521ed0bcac83a4f350932e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/MK2%20Sunburst1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/MK3 Fury1.jpg",
+      "size": 13704,
+      "sha256": "6a0201d28e7fcc50b2ff628d34cd39dfabbfd02c59f2979c8f90285ebbad549c",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/MK3%20Fury1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Nemesis Halo1.png",
+      "size": 328754,
+      "sha256": "2462f7ee22fa3bc331c4dd16bcf0b8e801da3d72222759e106365be6ef7cb5c8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Nemesis%20Halo1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Nova Sunder1.png",
+      "size": 311481,
+      "sha256": "40485efed23b747c1e10dbb0ebfb3cda8b80dacc17e35af10cf3ca35308fdeb3",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Nova%20Sunder1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Oryx Rift1.png",
+      "size": 271514,
+      "sha256": "596a7cf55a9696c6e9471847d9e1454df693213a64898009a942c01af9f6022e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Oryx%20Rift1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/PLS Beam1.jpg",
+      "size": 6922,
+      "sha256": "10cd8cee6cdbba4e166399d0f07033bca5a9048bed3606b5ee7185f156b77b1a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/PLS%20Beam1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/RPD Beam1.jpg",
+      "size": 8568,
+      "sha256": "9e561b29246f4c9f9e126aade7e384e46a021ea630ca16e62fe5742845a4538e",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/RPD%20Beam1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/V1 Blaster1.jpg",
+      "size": 11367,
+      "sha256": "a843a240affcd1be1e85a36b85d557ca7a2d23eaf25d3b54f56b848f44294c5a",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/V1%20Blaster1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/V2 Blaster1.jpg",
+      "size": 11449,
+      "sha256": "ee0cc2060d3ff85808c2fad50baeb90d172aa12751727ccafa0217e176009f6f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/V2%20Blaster1.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/guns/pics/Vanta Shear1.png",
+      "size": 275371,
+      "sha256": "2bd5651a05b990d2bafb2a15a2df02549702da362ba2073b12c4e7fca5548518",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/guns/pics/Vanta%20Shear1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Cargo Pod.jpg",
+      "size": 2662,
+      "sha256": "5caa17b381394d973ceff6d72c4833c74c5b627d4b8d2ba11b494cadf1cc8581",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Cargo%20Pod.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Cargo Pod.png",
+      "size": 3573,
+      "sha256": "0095c213fe17fb88627e359fe4cc57a1cfc3543b3fdf7a86583393a479c48e89",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Cargo%20Pod.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Hull Booster.jpg",
+      "size": 2736,
+      "sha256": "3785e99198d254cb26361926d1da1af007251bc94f51735c1db9505c49497e98",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Hull%20Booster.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Hull Booster.png",
+      "size": 3503,
+      "sha256": "a380fa13fe64cf5b0af8ba4d14543cc2a39830a06830e71a3c1998135033fae9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Hull%20Booster.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Jump Drive.jpg",
+      "size": 2912,
+      "sha256": "b747da2c129ab835d1f9ad7fa289310c68f2c22d6741120188147aeda3075827",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Jump%20Drive.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Jump Drive.png",
+      "size": 3768,
+      "sha256": "ce5c396328d285b43ba68696bd00c9de4090ef602926c26f22dce54ec828ddb9",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Jump%20Drive.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Shielding.jpg",
+      "size": 3182,
+      "sha256": "316cdf6ad7fa6a995201cf62a5c0573c945b46d0693fe3b414d6c6fb4c5ec1d1",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Shielding.jpg",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/icons/Shielding.png",
+      "size": 2825,
+      "sha256": "9472765bd3930606ab32390203cecfd8b4a268897ada3f468ac8141537fd3c5f",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/icons/Shielding.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Cargo Pod1.JPG",
+      "size": 7847,
+      "sha256": "53efb5076ed734630ee508ac20bf98c0932688ed810509f6a7d4406b40400a56",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Cargo%20Pod1.JPG",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Cargo Pod1.png",
+      "size": 256416,
+      "sha256": "68120c12e9fea6f8fff4d928104f5f7db07881eeda4dc034794456ab4e364a76",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Cargo%20Pod1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Hull Booster1.JPG",
+      "size": 10187,
+      "sha256": "ab478c9a3972082bc3df78762fe43783eaff00c45e171793d1670252713b02df",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Hull%20Booster1.JPG",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Hull Booster1.png",
+      "size": 197178,
+      "sha256": "e6959700611e296e51782b88036cc5f0f663ec34303e4e2b5f19ae184f508137",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Hull%20Booster1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Jump Drive1.JPG",
+      "size": 8542,
+      "sha256": "7abd06f8ad56f5bc28343a4f0173a5c8b3a9658f37004f5812320749941c03cc",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Jump%20Drive1.JPG",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Jump Drive1.png",
+      "size": 277031,
+      "sha256": "4111b6882d94b6a5a45aec13f8c35b1f32bf190a572f54b8ec06e05ba359acbc",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Jump%20Drive1.png",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Shielding1.JPG",
+      "size": 10958,
+      "sha256": "c7d0237da1ef2d4e75cb5b5bfee3e97708971b0b0be67460fd57add701cad710",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Shielding1.JPG",
+      "executable": false
+    },
+    {
+      "path": "assets/game/shop/misc/pics/Shielding1.png",
+      "size": 299454,
+      "sha256": "02194817e9c6135dffb741400b48d3dfd706b0467d08c5b9b346a6c45aaa2117",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/shop/misc/pics/Shielding1.png",
+      "executable": false
+    },
+    {
+      "path": "stellar-dominion",
+      "size": 4961432,
+      "sha256": "42a94f5a0073c6b7c5485a75099f538b00708058bd7587ca317469548228a67d",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/stellar-dominion",
+      "executable": true
+    }
+  ],
+  "deleted": []
+}
