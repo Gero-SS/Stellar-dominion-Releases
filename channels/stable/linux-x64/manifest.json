@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "linux-x64",
-  "version": "v0.1.12",
-  "generatedAt": "2026-05-10T12:28:51.026Z",
+  "version": "v0.1.13",
+  "generatedAt": "2026-05-11T05:22:15.071Z",
   "files": [
     {
       "path": "README.txt",
@@ -1093,169 +1093,169 @@
     },
     {
       "path": "assets/game/ships/field/nereid/attacker/front.png",
-      "size": 322898,
-      "sha256": "98a7ed27ced9d5ab3edb7a343007acca9892a618f44d3736c78f7ce4f51f4585",
+      "size": 293949,
+      "sha256": "b7b8615a3b20bb83d62749fffd3beae372089759c334280a9f95d4c70ac0136d",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/attacker/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/attacker/front_angled_left.png",
-      "size": 368988,
-      "sha256": "ab5df671316d480980cf0dd485ce75ee3d7929e8a7f47427448982614fa6e944",
+      "size": 311207,
+      "sha256": "f9ee3cb85f3e8906e1ef0e51fdd4d5dbb3ef48c42723d9813dd30f6d86044eec",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/attacker/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/attacker/side_left.png",
-      "size": 352438,
-      "sha256": "e555b279ff01b1480f2d7c0a61f1146db2d52e4e6c74664356dbd23de1d59d75",
+      "size": 294791,
+      "sha256": "da2baa1bd178e8752164ed537353eeecf57a3f65d9fe78ec9b33cf70332345d2",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/attacker/side_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/behemoth/front.png",
-      "size": 525104,
-      "sha256": "f189481b0cfd211959e9132092610a2d6948895c4a7f7bcaf95870a0e53e904d",
+      "size": 374699,
+      "sha256": "50c20852bbfd4a9f90e13a9370cd2fe9de99fbe4c973e8bb1dd16f82c9d6ce39",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/behemoth/front_angled_left.png",
-      "size": 464968,
-      "sha256": "a59e315604138406eb261a666b888071971e4a93bb006d48ecec2b4c6e3a97d8",
+      "size": 374961,
+      "sha256": "38c5664519cc493d970b39ecd3dd68280eb8a9a94190bc36de995dd9e5d436b0",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/behemoth/side_left.png",
-      "size": 502162,
-      "sha256": "29ec64ccfe97473b567f343f795898a6b021f42756586764280314d11776e109",
+      "size": 322511,
+      "sha256": "6d6f103beda11f29effe30044be0461e0479e70166a22a92011c621aa6fd5c18",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/side_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/carrier/front.png",
-      "size": 393742,
-      "sha256": "1654bacf4ef2c2716cda71b0b7e54363c7469ff2d70a7bb000d1ac370d7096a3",
+      "size": 233570,
+      "sha256": "8f669b2b69d15d3f9062dc01481750ebfee160db3773a54a64f5b885e58f17f6",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/carrier/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/carrier/front_angled_left.png",
-      "size": 358471,
-      "sha256": "03ec6882bad00c8c81b8185d381250075028dd22973f84f9c9bf744e6c480d5a",
+      "size": 236135,
+      "sha256": "960aecaddb6b7865401b9633d64cbdab3f83cb3903a8d89364613c3c2ecd9dfc",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/carrier/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/carrier/side_left.png",
-      "size": 347361,
-      "sha256": "90875e31e748f83524aff8fce57b1bd59951a87a2534226fa5609e68b3ce11e6",
+      "size": 183784,
+      "sha256": "1cd353414234f45db8a92be939cd0afb0eacb9e989f1da0486336e4acb3bb532",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/carrier/side_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/destroyer/front.png",
-      "size": 347507,
-      "sha256": "10e563b20d0532568d1d971dbf8ac40e35d2cd910821476631682018c9c55bc4",
+      "size": 320486,
+      "sha256": "d54dc1593ba84b01ba1945d8eec3e1d165c472b062a3bf147b9dc248ac723cfd",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/destroyer/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/destroyer/front_angled_left.png",
-      "size": 430149,
-      "sha256": "0c2b4b00eea12a06bb335e113264797d19ac27ebd0eea24477f15ba378d6c453",
+      "size": 332776,
+      "sha256": "acdf17c6032685b6bbea61946e436f3ad324fa299102b36dfebc60978b69b6c8",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/destroyer/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/destroyer/side_left.png",
-      "size": 391516,
-      "sha256": "2584b06802cb4d496472bfde724bda7a7cf398d8382a47faf8738a00719d1474",
+      "size": 295430,
+      "sha256": "5d07905721d9d7dff794bc6c9bd3b6cc3e4dede7620f3ec5804a7160bb460adf",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/destroyer/side_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/fighter/front.png",
-      "size": 196265,
-      "sha256": "eb1eab975c84ebe602cc4b5c96cca8839a005bad1e5682526439c1e3818d6a5b",
+      "size": 203359,
+      "sha256": "154f52d482cd750eee2a0736c56af193b4ad0a0c465380cd8240b2e626d68a1d",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/fighter/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/fighter/front_angled_left.png",
-      "size": 218669,
-      "sha256": "0f595b52944396efaa818b78ccf4c2a81dbb0d7094ee7943f46080ea48d853a5",
+      "size": 255595,
+      "sha256": "232bba137f4db7b2034bf7c1d919347331a1711834f7f12f1e05a4f41611b3ce",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/fighter/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/fighter/side_left.png",
-      "size": 243396,
-      "sha256": "ca91af14f7db8c5f0f468597243b1c87378ada9afada4e88b4b06321d52b87b1",
+      "size": 235262,
+      "sha256": "402bf2887efba9e32763c700a70b999bea0191ca633f3b647f6e98984155280d",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/fighter/side_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/freighter/front.png",
-      "size": 327255,
-      "sha256": "4016f144632ee31e5bf8bf9cc933bf05f7c9ec4bbe8fe4c22dcca313dd9fbd4c",
+      "size": 268345,
+      "sha256": "5e5e1aba74665e34af14911222beb7c788366d5b1482906d73db9ffeb15f15bd",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/freighter/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/freighter/front_angled_left.png",
-      "size": 349526,
-      "sha256": "c48ed69c3cfc4a937fe0ae997db363651bc142a9728ae8f4416e0f95d4a9471b",
+      "size": 304629,
+      "sha256": "fc4e25155ef9e41bf9783103ad47675196111a66f216334e4cccfa96a8fad67a",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/freighter/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/freighter/side_left.png",
-      "size": 337967,
-      "sha256": "5897ab5339eb55165dec26caed03dc794932bb92ffbcc12812ef440f36ef5af6",
+      "size": 256106,
+      "sha256": "05d38bc2d6ae4e39d1a9e4a5246c26ada6285396d9f2e7b9e3b81df1440947f7",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/freighter/side_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/hunter/front.png",
-      "size": 196675,
-      "sha256": "8558e0531a857f6d9fadb8021f6ad33aac666c91ded7045d6f2ef8641e614204",
+      "size": 196775,
+      "sha256": "b8c7e574f7378ab4e5fa3abd1528dd3e4f525423ca953f052de21d3ee87ef2ba",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/hunter/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/hunter/front_angled_left.png",
-      "size": 274682,
-      "sha256": "497ccd59e67bfd70da24ae4df432ff04564d309e79e900e4d751cad4a2f70043",
+      "size": 218229,
+      "sha256": "c6ff4f705432faa7c3b8dd86da3bd7bf05fe8066ff247a7f8f867c91109f51bc",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/hunter/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/hunter/side_left.png",
-      "size": 291796,
-      "sha256": "ac40544c4479d448bf1e766fe9ff5e93de2ede611dee36d2db680eeaa80b2ba6",
+      "size": 203419,
+      "sha256": "27beab1a4dd5adddb2fc49c96b3340e703d1fd9507022e43ca760dbc1c5dd6bb",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/hunter/side_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/seeker/front.png",
-      "size": 292594,
-      "sha256": "df6859efc3f507887ed71258db9887b23421ddab4ba3dab32b4b3157cbd65a65",
+      "size": 168948,
+      "sha256": "29490412e6a270fbd85e9aaafad272a7ac40612eeef192c43c17c915ed2d3e7e",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/seeker/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/seeker/front_angled_left.png",
-      "size": 279064,
-      "sha256": "8a8b6acf07db601c0c61ce157014f2168b526a04ea62e4c4a1733d6dd99792fd",
+      "size": 220526,
+      "sha256": "dedc7d25ebd2c218bd2efb77f9d2761221336e0ed9556a6a6828d6d1871b3091",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/seeker/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/nereid/seeker/side_left.png",
-      "size": 270132,
-      "sha256": "fddbed7489302c8c7a355a4a3c9091132549138e31c90b1c71a36b7501694612",
+      "size": 219711,
+      "sha256": "81089ee77c554976868283d474675d2e3e2fee9aca2b70ec93a764e2bc04a10c",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/seeker/side_left.png",
       "executable": false
     },
@@ -1933,57 +1933,57 @@
     },
     {
       "path": "assets/game/ships/shop/nereid/attacker_right.png",
-      "size": 370365,
-      "sha256": "b979d573bd6d545b18b05efb5d09db5b120c1164310714a84c8014109332bf4e",
+      "size": 311472,
+      "sha256": "73d387af9119af6ee8b6fbbcf0dae85cca31ca91e0c83d55c89b436998c80cd3",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/attacker_right.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/shop/nereid/behemoth_right.png",
-      "size": 466666,
-      "sha256": "263149f8ec92d23bca74f9004e93788d5091e3e590638cd27ce3672f47743015",
+      "size": 385767,
+      "sha256": "5007dcd3627a8a24e1ea674c72394952108073a2c37ed72c8768db2ecf230a0b",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/behemoth_right.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/shop/nereid/carrier_right.png",
-      "size": 358118,
-      "sha256": "e01923a748084fe56d9c13fda317ebb67a16e4d54f1d0c9355ed352c009a60f5",
+      "size": 243922,
+      "sha256": "065561eb4e68fe75aed32f0679a45b0cbf7d0f30ce8a120aedf2516275b05519",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/carrier_right.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/shop/nereid/destroyer_right.png",
-      "size": 430914,
-      "sha256": "1c7386627261c3caaa8edb6fe516e0ae42f71972e7147a098a6fa43e8116f6e7",
+      "size": 327452,
+      "sha256": "0211e1036cfd4b4ecf3d780259cecb13e5fb3c4d1ece23fdb631f61fb692ba76",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/destroyer_right.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/shop/nereid/fighter_right.png",
-      "size": 221311,
-      "sha256": "a95380f683c875cb6fcd56dbf8cc100ac0e731c9b3f9fe76899f978142867bbc",
+      "size": 251868,
+      "sha256": "600f0d426132451f7669f5ce0b56cca41e2194b9b734c927aed2ba39ba12487d",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/fighter_right.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/shop/nereid/freighter_right.png",
-      "size": 351774,
-      "sha256": "2e95aa0ff710ebf18166c227892dd912efebf419e97a0260f4b0600d4196f441",
+      "size": 332104,
+      "sha256": "edf024987497c71e819d8c5d288b8378d45968cfd0f9a2a74d7a6b6b3e40095b",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/freighter_right.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/shop/nereid/hunter_right.png",
-      "size": 277708,
-      "sha256": "3c05f404d6f86b6c94cb787440454d2b5935cbfe1778dd0376bc19c6bd4c2049",
+      "size": 218623,
+      "sha256": "ac4461ad0249ff9f7bded24901b066dc49062a7998be1fda091722e993a4b61a",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/hunter_right.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/shop/nereid/seeker_right.png",
-      "size": 279568,
-      "sha256": "b34519a47be348de9f4ac8fa5683a911183bc1aee6ad94c41577769a56235258",
+      "size": 298896,
+      "sha256": "152099142a0f78ba3cb01e5e63a03a271e6dab9ba3641bf17c2801ac058bbf12",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/shop/nereid/seeker_right.png",
       "executable": false
     },
@@ -2550,7 +2550,7 @@
     {
       "path": "stellar-dominion",
       "size": 5045296,
-      "sha256": "46271fd07efc34bd08f8353783d733808aa737662442e8d0460ad70c0f738564",
+      "sha256": "72a1f92a256bd8196ae6217722de70a1837e4a94c8588113ebc5974e0bf33e78",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/stellar-dominion",
       "executable": true
     }
