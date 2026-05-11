@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "linux-x64",
-  "version": "v0.1.16",
-  "generatedAt": "2026-05-11T07:50:52.561Z",
+  "version": "v0.1.17",
+  "generatedAt": "2026-05-11T08:43:50.735Z",
   "files": [
     {
       "path": "README.txt",
@@ -1114,8 +1114,8 @@
     },
     {
       "path": "assets/game/ships/field/nereid/behemoth/front.png",
-      "size": 374699,
-      "sha256": "50c20852bbfd4a9f90e13a9370cd2fe9de99fbe4c973e8bb1dd16f82c9d6ce39",
+      "size": 364143,
+      "sha256": "666c7dfd854ca8850c59773f81c1c7bab1e05e953949355e56a59e13d1dfe0d7",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/front.png",
       "executable": false
     },
@@ -1128,8 +1128,8 @@
     },
     {
       "path": "assets/game/ships/field/nereid/behemoth/side_left.png",
-      "size": 322511,
-      "sha256": "6d6f103beda11f29effe30044be0461e0479e70166a22a92011c621aa6fd5c18",
+      "size": 314500,
+      "sha256": "c37bde919776d192473667f1dac956d7c4e562545ff128af5353611adabbba1c",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/behemoth/side_left.png",
       "executable": false
     },
@@ -1177,8 +1177,8 @@
     },
     {
       "path": "assets/game/ships/field/nereid/fighter/front.png",
-      "size": 203359,
-      "sha256": "154f52d482cd750eee2a0736c56af193b4ad0a0c465380cd8240b2e626d68a1d",
+      "size": 196860,
+      "sha256": "3cf58e50460b56326d972f0f4bf04804b9341f343189685def6cea3116c704a5",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/fighter/front.png",
       "executable": false
     },
@@ -1198,8 +1198,8 @@
     },
     {
       "path": "assets/game/ships/field/nereid/freighter/front.png",
-      "size": 268345,
-      "sha256": "5e5e1aba74665e34af14911222beb7c788366d5b1482906d73db9ffeb15f15bd",
+      "size": 256538,
+      "sha256": "b3c83b9b16b194643e310903d83c62b35a20eb7fdb2eea7165680088ef387a20",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/nereid/freighter/front.png",
       "executable": false
     },
@@ -2550,7 +2550,7 @@
     {
       "path": "stellar-dominion",
       "size": 5091832,
-      "sha256": "96276dd35eedec4ebf7adf031983822d7fb28a53ef65ddf8ee932bf267f1c202",
+      "sha256": "ea8da7f3080ea0987858a57d0a804868987ea71018e8a8354c4c8c0f1244fd29",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/stellar-dominion",
       "executable": true
     }
