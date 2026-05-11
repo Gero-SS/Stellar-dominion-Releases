@@ -2,16 +2,16 @@
   "schema": 1,
   "product": "stellar-dominion",
   "channel": "stable",
-  "version": "v0.1.14",
-  "generatedAt": "2026-05-11T05:48:45.133Z",
+  "version": "v0.1.15",
+  "generatedAt": "2026-05-11T06:07:42.422Z",
   "platforms": {
     "linux-x64": {
       "manifestUrl": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/manifest.json",
-      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v0.1.14/stellar-dominion-linux-x64.tar.gz"
+      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v0.1.15/stellar-dominion-linux-x64.tar.gz"
     },
     "windows-x64": {
       "manifestUrl": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/manifest.json",
-      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v0.1.14/stellar-dominion-windows-x64.zip"
+      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v0.1.15/stellar-dominion-windows-x64.zip"
     }
   }
 }
