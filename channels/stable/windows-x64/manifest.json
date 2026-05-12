@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "windows-x64",
-  "version": "v0.1.25",
-  "generatedAt": "2026-05-12T17:22:53.672Z",
+  "version": "v0.1.27",
+  "generatedAt": "2026-05-12T18:27:17.014Z",
   "files": [
     {
       "path": "README.txt",
@@ -2135,6 +2135,13 @@
       "executable": false
     },
     {
+      "path": "assets/game/shop/guns/icons/Asteroid Harvester.png",
+      "size": 261872,
+      "sha256": "adc32c25a3b302b5eae9b44f5d728d0b9f0335d3bcf818a10f8c57bdd35791b8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/guns/icons/Asteroid%20Harvester.png",
+      "executable": false
+    },
+    {
       "path": "assets/game/shop/guns/icons/Axiom Splinter.png",
       "size": 257820,
       "sha256": "35718993c916984481c71dd943b20f2b9a1320bf77176fc0b011536a9bb3d34a",
@@ -2146,13 +2153,6 @@
       "size": 264719,
       "sha256": "b6b1ff551488a23068b8ac5aee0c9c5250d030b9a4032b1d63faacb892c09673",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/guns/icons/Cryon%20Arc.png",
-      "executable": false
-    },
-    {
-      "path": "assets/game/shop/guns/icons/Drive Warper.jpg",
-      "size": 1175,
-      "sha256": "1238f5b6c4b406a5501fb4da1ef7b2523d1fa458ad7793daec63a04b32860b89",
-      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/guns/icons/Drive%20Warper.jpg",
       "executable": false
     },
     {
@@ -2289,6 +2289,13 @@
       "executable": false
     },
     {
+      "path": "assets/game/shop/guns/pics/Asteroid Harvester1.png",
+      "size": 261872,
+      "sha256": "adc32c25a3b302b5eae9b44f5d728d0b9f0335d3bcf818a10f8c57bdd35791b8",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/guns/pics/Asteroid%20Harvester1.png",
+      "executable": false
+    },
+    {
       "path": "assets/game/shop/guns/pics/Axiom Splinter1.png",
       "size": 257820,
       "sha256": "35718993c916984481c71dd943b20f2b9a1320bf77176fc0b011536a9bb3d34a",
@@ -2300,13 +2307,6 @@
       "size": 264719,
       "sha256": "b6b1ff551488a23068b8ac5aee0c9c5250d030b9a4032b1d63faacb892c09673",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/guns/pics/Cryon%20Arc1.png",
-      "executable": false
-    },
-    {
-      "path": "assets/game/shop/guns/pics/Drive Warper1.jpg",
-      "size": 12699,
-      "sha256": "c69213da53baeec7124c0f653dbc65ffdb000a53941d10576dc8894e89eaec93",
-      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/guns/pics/Drive%20Warper1.jpg",
       "executable": false
     },
     {
@@ -2550,21 +2550,21 @@
     {
       "path": "libcurl.dll",
       "size": 709632,
-      "sha256": "a7574505e7390d647944eadf8aa3f6c2522750ac0fd62574c0ba1a43f92eebd3",
+      "sha256": "63988d3eaf34d104c4743d381f5c24a368cc350bcc58bf70671231bd12bf2778",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/libcurl.dll",
       "executable": false
     },
     {
       "path": "stellar-dominion.exe",
-      "size": 2827264,
-      "sha256": "c3068062e5ec5a2da4fc6b9935d32304379ef259f60701545ccf2cc0db40992b",
+      "size": 2831872,
+      "sha256": "59523064c7a4342001187ec5dcc2cae0a4884dc5f857f9d5a66c65ab333506b7",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/stellar-dominion.exe",
       "executable": true
     },
     {
       "path": "z.dll",
       "size": 91136,
-      "sha256": "9949556b975ad2c73a4638e354665c7cc319152a5163d43b26da01980625dae8",
+      "sha256": "a1d84e9dac70107f87957df6e58b729079858ada1668916fadeda650e98b202d",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/z.dll",
       "executable": false
     }
