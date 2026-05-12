@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "linux-x64",
-  "version": "v0.1.27",
-  "generatedAt": "2026-05-12T18:23:45.695Z",
+  "version": "v0.1.28",
+  "generatedAt": "2026-05-12T19:38:46.911Z",
   "files": [
     {
       "path": "README.txt",
@@ -988,22 +988,22 @@
     },
     {
       "path": "assets/game/ships/field/helios/destroyer/front.png",
-      "size": 389619,
-      "sha256": "cedb145b311d5ad76567b7daced0575ab3b349bcdfd9828cb4927ca1b439720f",
+      "size": 324178,
+      "sha256": "30c5d2975cdd17a3ecf8557c4a04aeef3e65031d660021bf3e8556aa30541471",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/destroyer/front.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/helios/destroyer/front_angled_left.png",
-      "size": 373419,
-      "sha256": "f2abd570d181dd4c1fec9477b836597a73135785d606b0c630721b58ba810d19",
+      "size": 195147,
+      "sha256": "9c7ab968ca3f03a76607cd3a09d5d390126e54f4b788f88156b3dbee9f89989c",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/destroyer/front_angled_left.png",
       "executable": false
     },
     {
       "path": "assets/game/ships/field/helios/destroyer/side_left.png",
-      "size": 317953,
-      "sha256": "2555e60a1629a01d0ce5bcf6b9f04c0cc74a649656f99b07059c533acadc3a72",
+      "size": 96846,
+      "sha256": "37502b4338fb873c7e2c6921cccc8b345b8536687cec693bdf80eb4f8d62e017",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/assets/game/ships/field/helios/destroyer/side_left.png",
       "executable": false
     },
@@ -2550,7 +2550,7 @@
     {
       "path": "stellar-dominion",
       "size": 5127976,
-      "sha256": "e3c0c5eb518dd86043797edd3b11f1da0fcc8cc1f4fd0d0e52bed7ebcf2627ee",
+      "sha256": "b35d8bdb9ed9b296ff3d88239dae9f6cc87a2863e0d42f138dc0b0a99823fd71",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/stellar-dominion",
       "executable": true
     }
