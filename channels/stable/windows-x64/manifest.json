@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "windows-x64",
-  "version": "v0.1.29",
-  "generatedAt": "2026-05-13T12:49:19.781Z",
+  "version": "v0.1.30",
+  "generatedAt": "2026-05-13T13:31:37.765Z",
   "files": [
     {
       "path": "README.txt",
@@ -120,8 +120,8 @@
     },
     {
       "path": "assets/game/ships/field/andros/behemoth/side_left.png",
-      "size": 502162,
-      "sha256": "29ec64ccfe97473b567f343f795898a6b021f42756586764280314d11776e109",
+      "size": 364567,
+      "sha256": "6031e85641585d4143ee1647348ff1fd47bd49337b94fc34a417c0846b61e9d1",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/ships/field/andros/behemoth/side_left.png",
       "executable": false
     },
@@ -2564,21 +2564,21 @@
     {
       "path": "libcurl.dll",
       "size": 709632,
-      "sha256": "09c2d4d7a10b37645e43e0e9cd20e32d7aec04bef2a788f1a54922c46bdd28f8",
+      "sha256": "294c6e2b9798be901d00961d22be47b0612987b463a2f47924be8d60abba5825",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/libcurl.dll",
       "executable": false
     },
     {
       "path": "stellar-dominion.exe",
-      "size": 2840576,
-      "sha256": "ff62281e979511767e5eebc4d01bdf5bba57a18d0d78ab1d2285cfb552d55845",
+      "size": 2843136,
+      "sha256": "27d5efb5fb797d289455578a9a7e9a34a1a8c9ac98486f2fbd7fe5f20a2bdfdb",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/stellar-dominion.exe",
       "executable": true
     },
     {
       "path": "z.dll",
       "size": 91136,
-      "sha256": "81e22a3249100445853931ab327d0c44692146e0bb0d30dda740236b87e45ee2",
+      "sha256": "496f1c64c2b59682e4600dec1d5733081a07a089dbffa33a2677895af7377038",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/z.dll",
       "executable": false
     }
