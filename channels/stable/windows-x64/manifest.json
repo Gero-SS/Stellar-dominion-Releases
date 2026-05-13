@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "windows-x64",
-  "version": "v0.1.28",
-  "generatedAt": "2026-05-12T19:43:05.510Z",
+  "version": "v0.1.29",
+  "generatedAt": "2026-05-13T12:49:19.781Z",
   "files": [
     {
       "path": "README.txt",
@@ -2492,6 +2492,13 @@
       "executable": false
     },
     {
+      "path": "assets/game/shop/misc/icons/evasion.png",
+      "size": 2863,
+      "sha256": "434b0ca0a22a43a7fe37234dcb7a5169048b7862fc8e70491dfbe18bc4b8a428",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/misc/icons/evasion.png",
+      "executable": false
+    },
+    {
       "path": "assets/game/shop/misc/pics/Cargo Pod1.JPG",
       "size": 7847,
       "sha256": "53efb5076ed734630ee508ac20bf98c0932688ed810509f6a7d4406b40400a56",
@@ -2548,23 +2555,30 @@
       "executable": false
     },
     {
+      "path": "assets/game/shop/misc/pics/evasion.png",
+      "size": 295716,
+      "sha256": "6bd5497be768c34f59bbabaf47b7e97e71fe83770a6ebf4f66b7afb70eab0f1b",
+      "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/assets/game/shop/misc/pics/evasion.png",
+      "executable": false
+    },
+    {
       "path": "libcurl.dll",
       "size": 709632,
-      "sha256": "3d51bc212aa56400d5bc8ffdebd4175e2cc9bbf66164ef517751b7846706292a",
+      "sha256": "09c2d4d7a10b37645e43e0e9cd20e32d7aec04bef2a788f1a54922c46bdd28f8",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/libcurl.dll",
       "executable": false
     },
     {
       "path": "stellar-dominion.exe",
-      "size": 2831872,
-      "sha256": "00a7a3b061b4249c417074639817824e30b429dd3fce8c9ddbde2284f3347c85",
+      "size": 2840576,
+      "sha256": "ff62281e979511767e5eebc4d01bdf5bba57a18d0d78ab1d2285cfb552d55845",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/stellar-dominion.exe",
       "executable": true
     },
     {
       "path": "z.dll",
       "size": 91136,
-      "sha256": "ec300ca27a836e1cc70cc50e9f6a923efe64601f7fb74a0a36b9309325ddcc45",
+      "sha256": "81e22a3249100445853931ab327d0c44692146e0bb0d30dda740236b87e45ee2",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/z.dll",
       "executable": false
     }
