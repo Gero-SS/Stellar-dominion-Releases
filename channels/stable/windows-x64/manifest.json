@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "windows-x64",
-  "version": "v1.0.0",
-  "generatedAt": "2026-05-14T19:22:58.863Z",
+  "version": "v1.0.1",
+  "generatedAt": "2026-05-15T20:18:49.873Z",
   "files": [
     {
       "path": "README.txt",
@@ -2564,21 +2564,21 @@
     {
       "path": "libcurl.dll",
       "size": 709632,
-      "sha256": "8f25484f5ca3ac65e22cd3ec1c3f3846f6bc05c3e1223e32fc577baa655807f3",
+      "sha256": "135d07d93d69653b1a0671e9d7e18f7f739223695eb39105e0e6415a5d6710aa",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/libcurl.dll",
       "executable": false
     },
     {
       "path": "stellar-dominion.exe",
       "size": 2855424,
-      "sha256": "6cb06b85721f393ecaee4da31c5ffcd734ceac1f8b9be3c232098db4b665ef03",
+      "sha256": "439dfc8d67dd98451b0ec12e201ebf19d010d45b498ab50f765e185284732fbb",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/stellar-dominion.exe",
       "executable": true
     },
     {
       "path": "z.dll",
       "size": 91136,
-      "sha256": "56a9db5e20db29f5b37e223d4a74c252580a10028ce9e40eeaec65d1527b704b",
+      "sha256": "eaf5b7d1ba60fa5ae2fd909e3a9c78a6cf8e450f9554334d9231ae2c6ae3195b",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/files/z.dll",
       "executable": false
     }
