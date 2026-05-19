@@ -2,19 +2,19 @@
   "schema": 1,
   "product": "stellar-dominion",
   "channel": "stable",
-  "version": "v1.0.5",
-  "generatedAt": "2026-05-18T13:40:36.612Z",
+  "version": "v1.0.6",
+  "generatedAt": "2026-05-19T10:35:48.288Z",
   "platforms": {
     "linux-x64": {
       "manifestUrl": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/manifest.json",
-      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v1.0.5/stellar-dominion-linux-x64.tar.gz"
+      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v1.0.6/stellar-dominion-linux-x64.tar.gz"
     },
     "windows-x64": {
       "manifestUrl": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/windows-x64/manifest.json",
-      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v1.0.5/stellar-dominion-windows-x64.zip"
+      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v1.0.6/stellar-dominion-windows-x64.zip"
     },
     "android-arm64": {
-      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v1.0.5/stellar-dominion-android-arm64.apk"
+      "packageUrl": "https://github.com/Gero-SS/Stellar-dominion-Releases/releases/download/v1.0.6/stellar-dominion-android-arm64.apk"
     }
   }
 }
