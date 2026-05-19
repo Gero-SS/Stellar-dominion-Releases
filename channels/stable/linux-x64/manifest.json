@@ -3,8 +3,8 @@
   "product": "stellar-dominion",
   "channel": "stable",
   "platform": "linux-x64",
-  "version": "v1.0.5",
-  "generatedAt": "2026-05-18T13:36:57.306Z",
+  "version": "v1.0.6",
+  "generatedAt": "2026-05-19T10:31:54.372Z",
   "files": [
     {
       "path": "README.txt",
@@ -2563,8 +2563,8 @@
     },
     {
       "path": "stellar-dominion",
-      "size": 5174672,
-      "sha256": "3553e1bcf335f36dc42481e8cc10baa887e9b9a88ceacdb3e0ac4ad5242b7152",
+      "size": 5174752,
+      "sha256": "510a70430b0c86ae87e22f1f989548843869c4c32de3880c2fefbfd253775876",
       "url": "https://raw.githubusercontent.com/Gero-SS/Stellar-dominion-Releases/main/channels/stable/linux-x64/files/stellar-dominion",
       "executable": true
     }
